@@ -40,7 +40,7 @@ station = " ".join(sta_list) #list에 있는 값을 공백을 기준으로 문�
 
 
 
-wc = WordCloud(font_path='/Users/harenkei/PycharmProjects/SeoulAPI_parsing/NotoSansCJKkr-Black.otf',
+wc = WordCloud(font_path='/Users/harenkei/PycharmProjects/SeoulAPI_parsing/BMHANNA_11yrs_.ttf',
                background_color='white', width=800, height=600).generate_from_text(station)
 
 plt.imshow(wc)
