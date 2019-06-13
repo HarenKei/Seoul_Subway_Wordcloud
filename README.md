@@ -7,8 +7,11 @@
 
 사용한 모듈 및 라이브러리
 -requests
+
 -Beautifulsoup4
+
 -Word Cloud
+
 -matplotlib
 
 
